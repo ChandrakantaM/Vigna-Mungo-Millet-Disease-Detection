@@ -1,1 +1,1 @@
-Deep Learning Backbones for Vigna Mungo Millet Disease Prediction (RNN with various transfer learning models)
+Deep Learning Backbones for Vigna Mungo Millet Disease Detection (RNN with various transfer learning models)
